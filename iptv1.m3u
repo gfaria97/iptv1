@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,[COLOR magenta][I][B]branco (Magellan)[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR magenta][I][B]b(Magellan)[/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]» » PORTUGAL« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
-http://luckyiptv.ddns.net:23000/live/andi/andi/12024.m3u8
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
