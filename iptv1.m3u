@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1,[COLOR magenta][I][B]leon branco (Magellan)[/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[COLOR yellow]» » PORTUGAL« «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=69584067
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+http://81.15.191.20:9995/udp/239.239.2.143:1234
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u8 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://tvdasogra.com:8880/live/greg/greg/262.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
