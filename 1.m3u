@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,CANAIS DA ITÁLIA [IT]
+#EXTINF:0,Gabriel Faria
 http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
 
 #EXTINF:0,BenficaTv
@@ -12,8 +12,8 @@ rtmp://31.220.40.60/privatestream/ playpath=yanxuoje swfUrl=http://privatestream
 #EXTINF:0,Sport tv1 (2)
 rtmp://79.124.59.218:1935/share playpath=live1-rbi6c swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf
 
-#EXTINF:0,AUTO MOTO TV
-http://178.22.187.142:1935/automoto/myStream2/live.m3u8
+#EXTINF:0,Sport tv1 (3)
+rtmp://5.255.64.228/live playpath=ver81030c9f90aa127c6eb734cd7b37d062 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf
 
 #EXTINF:0,AUTO MOTO TV
 http://178.22.187.142:1935/automoto/myStream3/live.m3u8
