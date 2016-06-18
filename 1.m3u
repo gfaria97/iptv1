@@ -6,10 +6,14 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
 #EXTINF:0,Sport tv1
 rtmp://31.220.40.60/privatestream/ playpath=yanxuoje swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
-#EXTINF:0,Sport tv1 (2)
+#EXTINF:0,Sport tv1 (lenta)
 rtmp://79.124.59.218:1935/share playpath=live1-rbi6c swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf
 
-#EXTINF:0,Euro2016
+#EXTINF:0,Euro2016 (1)
 rtmp://a6.aliez.me/live/ playpath=streama46492?token=034d00b992a728b0e616ba9a3c1b8425 swfUrl=http://i.aliez.me/swf/playernew.swf?
 
-#EXTINF:0,Sport tv1 (2)
+#EXTINF:0,Euro 2016 (2)
+rtmp://a5.aliez.me/live/ playpath=streama46492?token=034d00b992a728b0e616ba9a3c1b8425 swfUrl=http://i.aliez.me/swf/playernew.swf?
+
+#EXTINF:0,Euro 2016 (3)
+rtmp://a4.aliez.me/live/ playpath=streama46521?token=5056a91e4a59e5a6628b76e863e4df50 swfUrl=http://i.aliez.me/swf/playernew.swf?
