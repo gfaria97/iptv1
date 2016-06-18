@@ -8,3 +8,8 @@ rtmp://31.220.40.60/privatestream/ playpath=yanxuoje swfUrl=http://privatestream
 
 #EXTINF:0,Sport tv1 (2)
 rtmp://79.124.59.218:1935/share playpath=live1-rbi6c swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf
+
+#EXTINF:0,TvCine1
+http://86.124.123.71:8000/play/a013 
+
+#EXTINF:0,Sport tv1 (2)
