@@ -6,8 +6,8 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
 #EXTINF:0,BenficaTv
 rtmp://178.162.193.166/live<playpath>slbueeich?id=22942&pk=dac587c8fe835a61ede4c6d98e6f57ceb915d178b14aca8cbd73242483275fa6 <swfUrl>http://www.streamifyplayer.com/resources/scripts/eplayer.swf <pageUrl>http://www.streamifyplayer.com/embedplayer/slbueeich/1/555/435
 
-#EXTINF:0,sporttv
-rtmp://79.124.58.34:1935/share<playpath>live1-rbi6c <swfUrl>http://89123987015532.com/sc/player/jwplayer20.flash.swf <pageUrl>http://sharecast.eu/embed.php?ch=live1-rbi6c
+#EXTINF:0,Sporttv
+http://privatestream.tv/player?streamname=yanxuoje&width=555&height=440
 
 #EXTINF:0,ANTENNA 3
 http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
