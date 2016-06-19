@@ -17,3 +17,12 @@ rtmp://a5.aliez.me/live/ playpath=streama46492?token=034d00b992a728b0e616ba9a3c1
 
 #EXTINF:0,Euro 2016 (3)
 rtmp://a4.aliez.me/live/ playpath=streama46521?token=5056a91e4a59e5a6628b76e863e4df50 swfUrl=http://i.aliez.me/swf/playernew.swf?
+
+#EXTINF:0,Sport tv1
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u
+
+#EXTINF:0,Sport tv2
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+
+#EXTINF:0,Sport tv3
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
