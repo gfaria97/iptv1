@@ -3,8 +3,8 @@
 #EXTINF:0,Gabriel Faria
 http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
 
-#EXTINF:0,Sport tv1
-rtmp://79.124.59.218:1935/share playpath=live1-rbi6c swfUrl=http://89123987015532.com/sc/player/jwplayer20.flash.swf
+#EXTINF:0,Death Race 2050
+https://www.raptu.com/embed/PPRJiEo4#
 
 #EXTINF:0,Euro2016 (1)
 rtmp://a6.aliez.me/live/ playpath=streama46492?token=034d00b992a728b0e616ba9a3c1b8425 swfUrl=http://i.aliez.me/swf/playernew.swf?
